@@ -1,65 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>NonlinearIndoorDynamicThermalProfile - UKF-UMV-UI</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 0;
-            padding: 0;
-            background-color: #f9f9f9;
-            color: #333;
-        }
-
-        header {
-            background-color: #0073e6;
-            color: #fff;
-            padding: 1rem;
-            text-align: center;
-        }
-
-        main {
-            padding: 2rem;
-            max-width: 800px;
-            margin: auto;
-            background: #fff;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-        }
-
-        h1, h2 {
-            color: #0073e6;
-        }
-
-        a {
-            color: #0073e6;
-            text-decoration: none;
-        }
-
-        a:hover {
-            text-decoration: underline;
-        }
-
-        ul {
-            list-style: none;
-            padding: 0;
-        }
-
-        ul li {
-            margin: 0.5rem 0;
-        }
-
-        footer {
-            text-align: center;
-            margin-top: 2rem;
-            font-size: 0.8rem;
-            color: #666;
-        }
-    </style>
-</head>
 
 <body>
     <header>
